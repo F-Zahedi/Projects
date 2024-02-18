@@ -1,0 +1,44 @@
+body {
+  direction: rtl;
+  font-family: "Vazir-Black.woff2";
+}
+.form {
+  background-color: rgb(255, 254, 248);
+  color: #198754;
+  width: 600px;
+  height: auto;
+  margin: auto;
+  padding: 30px;
+  box-sizing: border-box;
+}
+.lable {
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  margin: auto;
+  padding: 10px;
+  font-family: "Vazir-Black.woff2";
+}
+
+.text {
+  width: 500px;
+  height: 40px;
+  border: none;
+  outline: none;
+}
+
+.btns {
+  margin: 5px;
+  margin-top: 60px;
+  direction: ltr;
+}
+.btn {
+  margin-right: 10px;
+}
+.dropdown {
+  padding: 5px;
+}
+.solid {
+  border-top: 3px solid #198754;
+}

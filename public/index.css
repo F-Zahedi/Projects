@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Vazir-Black.woff2";
+    src: url(./fonts/Vazir-Black.woff2);
+  }
+  @font-face {
+    font-family: "IranNastaliq-.TTF";
+    src: url(./fonts/IranNastaliq-.TTF);
+  }
+  @font-face {
+    font-family: "Bardia Normal .TTF";
+    src: url(./fonts/Bardia\ Normal\ .TTF);
+  }
+  
+  body {
+    font-family: "Vazir-Black.woff2";
+  }
+  

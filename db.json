@@ -1,0 +1,38 @@
+{
+  "Tasks": [
+    {
+      "title": "NewTask1",
+      "description": "Description1",
+      "selectTime": [],
+      "selectType": "عمومی",
+      "id": 1
+    },
+    {
+      "title": "نام وظیفه دوم ",
+      "description": "توضیحات وظیفه دوم  ",
+      "selectTime": [],
+      "selectType": "",
+      "id": 2
+    },
+    {
+      "title": "تسک سوم ",
+      "description": "توضیحات تسک ",
+      "selectTime": [],
+      "selectType": "خصوصی",
+      "id": 3
+    }
+  ],
+  "User": [
+    {
+      "email": "Ali@gmail.com",
+      "password": "1234",
+      "id": 1
+    }
+  ],
+  "Reports": [
+    {
+      "id": 1,
+      "reports": "reports1"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+
+.app {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 65px;
+    margin-top: 20px;
+    gap: 30px;
+  }
+  .editor-wrapper {
+    border: 1px solid #c4cdd5;
+    background-color: white;
+  }
+  .message-toolbar {
+    border-bottom: 1px solid #c4cdd5;
+   
+    margin-bottom: 0px;
+    padding: 6px 5px;
+  }
+  .message-editor {
+    height: 300px;
+    font-size: 16px;
+    padding: 0px 10px;
+  }
+  .rdw-option-wrapper {
+    min-width: 35px;
+    height: 30px;
+  }
+  .html-output {
+    border: 1px solid silver;
+    padding: 20px;
+    background-color: #fafafa;
+  }
+  .divcontent{
+    background-color: #c4cdd5;
+    width: auto;
+    height: auto;
+  }
+  .inptext{
+    border-radius: 15px;
+    background-color: white;
+
+  }
+  .chatpage{
+    background-color: #c4cdd5;
+    width: 200px;
+    padding: 100px;
+  }
+  .textt{
+    background-color: aqua;
+    left: 0;
+    top: 0;
+    border-radius: 5px 20px 5px;
+  }
+  .chattype{
+    display: flex;
+    padding: 2px;
+  }
